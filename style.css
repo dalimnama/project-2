@@ -3,9 +3,9 @@ body{
 }
 
 .banner-container{
-    background: linear-gradient(#000000ad,#000000ad),url(/img/banner\ img\ 1.jpg);
-    background-repeat: no-repeat;
+    background: url(/img/background-4.jpg);
     background-size: cover;
+    background-repeat: no-repeat;;
 }
   
 }
