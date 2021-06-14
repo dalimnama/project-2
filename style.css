@@ -2,7 +2,11 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
-
+.banner-container{
+    background: url(/img/background-4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
   
 }
 
