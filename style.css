@@ -3,9 +3,9 @@ body{
 }
 
 .banner-container{
-    background: url('img/background-4.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;;
+    background: url(/img/background-4.jpg);
+    background-size: 1400px 800px;
+    background-repeat: no-repeat;
 }
   
 }
