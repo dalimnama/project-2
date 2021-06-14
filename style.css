@@ -4,7 +4,7 @@ body{
 
 .banner-container{
     background: url('img/background-4.jpg');
-    background-size: 1400px 800px;
+    background-size: cover;
     background-repeat: no-repeat;;
 }
   
